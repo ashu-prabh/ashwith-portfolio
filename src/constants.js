@@ -205,7 +205,7 @@ export const projects = [
       "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
     image: movierecLogo,
     tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-    github: "https://github.com/codingmastr/Movie-Recommendation-App",
+    github: "",
     webapp: "https://movie-recommendation-app-jet.vercel.app/",
   },
   {
@@ -215,7 +215,7 @@ export const projects = [
       "A React.js-based image search application that allows users to search and download high-quality images from the web. Built using external APIs to ensure a vast library of results for various queries.",
     image: imagesearchLogo,
     tags: ["React JS", "API", "Search Feature", "CSS", "Javascript"],
-    github: "https://github.com/codingmastr/Image-Search-App",
+    github: "",
     webapp: "https://imagsearch.netlify.app/",
   },
   {
@@ -225,7 +225,7 @@ export const projects = [
       "An efficient background removal app built with React.js and API integration. Users can upload any image, remove the background, and download the transparent version for further use.",
     image: removebgLogo,
     tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
-    github: "https://github.com/codingmastr/Image-Background-Remover",
+    github: "",
     webapp: "https://removeyourbg.netlify.app/",
   },
   {
